@@ -2,7 +2,8 @@ package = "torch"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/torch7.git",
+   url = "git://github.com/Ark-kun/torch7.git",
+   branch = "fix_msvc_cmake_build"
 }
 
 description = {
